@@ -3,7 +3,7 @@
  _Be yourself; everyone else is already taken._ 
 ― Oscar Wilde 🖋
 
-
+![photo](IMG_3720.jpeg)
 
 ##### Le ridicule ne tue pas.
 
