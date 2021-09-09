@@ -43,6 +43,7 @@
 - Talking about any problem you have. I'll do my very best to help you.
 - Remembering tasks to do, I'm a to-do list person.
 - Don't be afraid to be yourself, no judgments.
+- Tell jokes... Funny or not 😂
 
 
 
