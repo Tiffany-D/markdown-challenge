@@ -46,4 +46,4 @@
 
 
 
-<a href="https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md"><< previous </a>|| Tiffany Dessouroux ||
+[<< previous](https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md) || Tiffany Dessouroux ||
