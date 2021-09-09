@@ -14,7 +14,7 @@
 🎂 Birthday: | 15 May
 🎨 Favourite color: | 🟣 Purple and Yellow 🟡
 🍽 Favourite food/drink: | 🧇 Waffles and coffee ☕️
-🍍 Pinneaple on pizza : Yes/No _What a crime ! Not even in my worst nightmares..._
+🍍 Pinneaple on pizza : No _What a crime ! Not even in my worst nightmares..._
 
 ## Hobbies
 - 📚 Books:
@@ -46,4 +46,4 @@
 
 
 
-<a href="https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md"><< previous </a>|| Tiffany Dessouroux || <a href="">next >></a>
+<a href="https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md"><< previous </a>|| Tiffany Dessouroux ||
