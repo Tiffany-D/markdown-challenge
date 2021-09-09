@@ -4,7 +4,9 @@
 ― Oscar Wilde 🖋
 
 
-### Me, in one sentence
+
+##### Le ridicule ne tue pas.
+
 
 
 Things| to know |
@@ -15,7 +17,10 @@ Things| to know |
 🍍 Pinneaple on pizza : Yes/No _What a crime ! Not even in my worst nightmares..._
 
 ## Hobbies
-- 📚 Books: I'm fond of reading
+- 📚 Books:
+   * Fictional
+   * Non-fictional
+   * BD, comics,...
 - 🎬 Films: 
    * Harry Potter 
    * IT
@@ -23,6 +28,7 @@ Things| to know |
    * Corpse bride
 - 🖍 Drawing
 - 🎧 Music
+- 🎭 Humour
 - 🎮 Video games: 
    * Resident Evil 
    * Little Nightmares 
@@ -32,3 +38,12 @@ Things| to know |
 
 
 
+
+#### You can always count on me when:
+- Talking about any problem you have. I'll do my very best to help you.
+- Remembering tasks to do, I'm a to-do list person.
+- Don't be afraid to be yourself, no judgments.
+
+
+
+<a href="https://github.com/ThomasBackers/Markdown-challenge/blob/main/README.md"><< previous </a>|| Tiffany Dessouroux || <a href="">next >></a>
