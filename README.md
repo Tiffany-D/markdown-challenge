@@ -9,7 +9,7 @@
 
 
 
-Things| to know |
+🗒 Things to know:| |
 --- | ---
 🎂 Birthday: | 15 May
 🎨 Favourite color: | 🟣 Purple and Yellow 🟡
